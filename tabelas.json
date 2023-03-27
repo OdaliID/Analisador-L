@@ -1,0 +1,150 @@
+{
+    "tokens": [
+        {
+            "token": "while",
+            "identificacao": "Palavra reservada",
+            "tamanho": 5,
+            "posicao": "(0,0)"
+        },
+        {
+            "token": "i",
+            "identificacao": [
+                "Identificador",
+                1
+            ],
+            "tamanho": 1,
+            "posicao": "(0,6)"
+        },
+        {
+            "token": "<",
+            "identificacao": "Operador",
+            "tamanho": 1,
+            "posicao": "(0,8)"
+        },
+        {
+            "token": "100",
+            "identificacao": [
+                "Constante",
+                2
+            ],
+            "tamanho": 3,
+            "posicao": "(0,10)"
+        },
+        {
+            "token": "do",
+            "identificacao": "Palavra reservada",
+            "tamanho": 2,
+            "posicao": "(0,14)"
+        },
+        {
+            "token": "i",
+            "identificacao": [
+                "Identificador",
+                1
+            ],
+            "tamanho": 1,
+            "posicao": "(0,17)"
+        },
+        {
+            "token": "=",
+            "identificacao": "Operador",
+            "tamanho": 1,
+            "posicao": "(0,19)"
+        },
+        {
+            "token": "i",
+            "identificacao": [
+                "Identificador",
+                1
+            ],
+            "tamanho": 1,
+            "posicao": "(0,21)"
+        },
+        {
+            "token": "+",
+            "identificacao": "Operador",
+            "tamanho": 1,
+            "posicao": "(0,23)"
+        },
+        {
+            "token": "j",
+            "identificacao": [
+                "Identificador",
+                3
+            ],
+            "tamanho": 1,
+            "posicao": "(0,25)"
+        },
+        {
+            "token": ";",
+            "identificacao": "Terminador",
+            "tamanho": 1,
+            "posicao": "(0,26)"
+        },
+        {
+            "token": "f",
+            "identificacao": [
+                "Constante",
+                4
+            ],
+            "tamanho": 1,
+            "posicao": "(0,28)"
+        },
+        {
+            "token": "sdfsdg",
+            "identificacao": [
+                "Constante",
+                5
+            ],
+            "tamanho": 6,
+            "posicao": "(0,30)"
+        },
+        {
+            "token": "<",
+            "identificacao": "Operador",
+            "tamanho": 1,
+            "posicao": "(0,37)"
+        },
+        {
+            "token": "while",
+            "identificacao": "Palavra reservada",
+            "tamanho": 5,
+            "posicao": "(0,39)"
+        },
+        {
+            "token": "dfg",
+            "identificacao": [
+                "Constante",
+                6
+            ],
+            "tamanho": 3,
+            "posicao": "(0,45)"
+        }
+    ],
+    "identificacoes": [
+        {
+            "indice": 1,
+            "simbolo": "i"
+        },
+        {
+            "indice": 2,
+            "simbolo": "100"
+        },
+        {
+            "indice": 3,
+            "simbolo": "j"
+        },
+        {
+            "indice": 4,
+            "simbolo": "f"
+        },
+        {
+            "indice": 5,
+            "simbolo": "sdfsdg"
+        },
+        {
+            "indice": 6,
+            "simbolo": "dfg"
+        }
+    ]
+}
