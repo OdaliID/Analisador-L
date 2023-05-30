@@ -1,1 +1,1 @@
-while i < 100 do i = i + j; f sdfsdg < while dfg
+while i < 100 do i = i + j ; w f dfg dfgsd     i
