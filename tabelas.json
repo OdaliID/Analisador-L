@@ -76,49 +76,64 @@
             "posicao": "(0,25)"
         },
         {
+            "token": "",
+            "identificacao": [
+                "Constante",
+                4
+            ],
+            "tamanho": 0,
+            "posicao": "(0,26)"
+        },
+        {
             "token": ";",
             "identificacao": "Terminador",
             "tamanho": 1,
-            "posicao": "(0,26)"
+            "posicao": "(0,27)"
+        },
+        {
+            "token": "w",
+            "identificacao": [
+                "Constante",
+                5
+            ],
+            "tamanho": 1,
+            "posicao": "(0,29)"
         },
         {
             "token": "f",
             "identificacao": [
                 "Constante",
-                4
+                6
             ],
             "tamanho": 1,
-            "posicao": "(0,28)"
-        },
-        {
-            "token": "sdfsdg",
-            "identificacao": [
-                "Constante",
-                5
-            ],
-            "tamanho": 6,
-            "posicao": "(0,30)"
-        },
-        {
-            "token": "<",
-            "identificacao": "Operador",
-            "tamanho": 1,
-            "posicao": "(0,37)"
-        },
-        {
-            "token": "while",
-            "identificacao": "Palavra reservada",
-            "tamanho": 5,
-            "posicao": "(0,39)"
+            "posicao": "(0,31)"
         },
         {
             "token": "dfg",
             "identificacao": [
                 "Constante",
-                6
+                7
             ],
             "tamanho": 3,
-            "posicao": "(0,45)"
+            "posicao": "(0,33)"
+        },
+        {
+            "token": "dfgsd",
+            "identificacao": [
+                "Constante",
+                8
+            ],
+            "tamanho": 5,
+            "posicao": "(0,37)"
+        },
+        {
+            "token": "i",
+            "identificacao": [
+                "Identificador",
+                1
+            ],
+            "tamanho": 1,
+            "posicao": "(0,43)"
         }
     ],
     "identificacoes": [
@@ -136,15 +151,23 @@
         },
         {
             "indice": 4,
-            "simbolo": "f"
+            "simbolo": ""
         },
         {
             "indice": 5,
-            "simbolo": "sdfsdg"
+            "simbolo": "w"
         },
         {
             "indice": 6,
+            "simbolo": "f"
+        },
+        {
+            "indice": 7,
             "simbolo": "dfg"
+        },
+        {
+            "indice": 8,
+            "simbolo": "dfgsd"
         }
     ]
 }
