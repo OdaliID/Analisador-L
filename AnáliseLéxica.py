@@ -24,6 +24,14 @@ def pesquisa(token, lista):
     return False
 
 def traduz(linha):
+    # Verificar se há dois espaços consecutivos entre tokens
+    if '' in linha.split():
+        print('Erro léxico: Dois espaços consecutivos entre tokens.')
+        return
+
+    # Remover espaços extras entre tokens
+    linha = ' '.join(linha.split())
+
     itens = linha.replace(';', ' ;').split(' ')
 
     tabela = {
@@ -76,11 +84,7 @@ def traduz(linha):
     with open('tabelas.json', 'w') as f:
         json.dump(tabela, f, indent=4)
 
-
-
 with open('codigo.txt', 'r') as arquivo:
-
     linha = arquivo.read()
-
 
 traduz(linha)
